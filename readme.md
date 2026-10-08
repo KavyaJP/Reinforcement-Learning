@@ -9,3 +9,4 @@ This is a repo where I keep track of my Reinforcement learning journey.
 | 3   | SARSA vs Q-Learning                | [File](3-SARSA_vs_Q-Learning.ipynb)                |
 | 4   | Policy Gradient Method - REINFORCE | [File](4_Policy_Gradient_Method_REINFORCE.ipynb)   |
 | 5   | Multi-Agent Reinforcement Learning | [File](5_multi_agent_reinforcement_learning.ipynb) |
+| 6   | Deep Q-Network                     | [File](6_deep_q_network.ipynb)                     |
