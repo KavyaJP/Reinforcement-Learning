@@ -11,3 +11,8 @@ This is a repo where I keep track of my Reinforcement learning journey.
 | 5   | Multi-Agent Reinforcement Learning | [File](5_multi_agent_reinforcement_learning.ipynb) |
 | 6   | Deep Q-Network                     | [File](6_deep_q_network.ipynb)                     |
 | 7   | Recommendation System              | [File](7_recommendation_system.ipynb)              |
+| 8   | Autonomous Driving                 | [File](8_autonomous_driving.ipynb)                 |
+
+## Note
+
+- Practical 8 Requires CARLA server to be running offline, and can be downloaded from [here](https://github.com/carla-simulator/carla/releases)
