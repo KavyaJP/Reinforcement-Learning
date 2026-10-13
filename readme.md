@@ -12,6 +12,7 @@ This is a repo where I keep track of my Reinforcement learning journey.
 | 6   | Deep Q-Network                     | [File](6_deep_q_network.ipynb)                     |
 | 7   | Recommendation System              | [File](7_recommendation_system.ipynb)              |
 | 8   | Autonomous Driving                 | [File](8_autonomous_driving.ipynb)                 |
+| 9   | Financial Trading                  | [File](9_financial_trading.ipynb)                  |
 
 ## Note
 
